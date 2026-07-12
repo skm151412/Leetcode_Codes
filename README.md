@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/skm151412/Leetcode_Codes/tree/master/1025-divisor-game) |
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
