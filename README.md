@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0303-range-sum-query-immutable](https://github.com/skm151412/Leetcode_Codes/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/skm151412/Leetcode_Codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/skm151412/Leetcode_Codes/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/skm151412/Leetcode_Codes/tree/master/0739-daily-temperatures) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/skm151412/Leetcode_Codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skm151412/Leetcode_Codes/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/skm151412/Leetcode_Codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/skm151412/Leetcode_Codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skm151412/Leetcode_Codes/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/skm151412/Leetcode_Codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Range Minimum/Maximum Query
