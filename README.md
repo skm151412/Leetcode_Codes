@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/skm151412/Leetcode_Codes/tree/master/1025-divisor-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/skm151412/Leetcode_Codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
