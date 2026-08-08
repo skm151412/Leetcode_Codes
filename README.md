@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0303-range-sum-query-immutable](https://github.com/skm151412/Leetcode_Codes/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/skm151412/Leetcode_Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0503-next-greater-element-ii) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/skm151412/Leetcode_Codes/tree/master/0901-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
