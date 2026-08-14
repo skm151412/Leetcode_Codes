@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/skm151412/Leetcode_Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/skm151412/Leetcode_Codes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/skm151412/Leetcode_Codes/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/skm151412/Leetcode_Codes/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/skm151412/Leetcode_Codes/tree/master/0907-sum-of-subarray-minimums) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/skm151412/Leetcode_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/skm151412/Leetcode_Codes/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/skm151412/Leetcode_Codes/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
