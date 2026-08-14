@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/skm151412/Leetcode_Codes/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/skm151412/Leetcode_Codes/tree/master/1025-divisor-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/skm151412/Leetcode_Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/skm151412/Leetcode_Codes/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/skm151412/Leetcode_Codes/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/skm151412/Leetcode_Codes/tree/master/0704-binary-search) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/skm151412/Leetcode_Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/skm151412/Leetcode_Codes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
