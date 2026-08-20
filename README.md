@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/skm151412/Leetcode_Codes/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/skm151412/Leetcode_Codes/tree/master/2104-sum-of-subarray-ranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skm151412/Leetcode_Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/skm151412/Leetcode_Codes/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/skm151412/Leetcode_Codes/tree/master/0844-backspace-string-compare) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
