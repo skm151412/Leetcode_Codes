@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/skm151412/Leetcode_Codes/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/skm151412/Leetcode_Codes/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/skm151412/Leetcode_Codes/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skm151412/Leetcode_Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/skm151412/Leetcode_Codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/skm151412/Leetcode_Codes/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/skm151412/Leetcode_Codes/tree/master/2104-sum-of-subarray-ranges) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/skm151412/Leetcode_Codes/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skm151412/Leetcode_Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/skm151412/Leetcode_Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
