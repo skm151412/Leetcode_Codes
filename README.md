@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/skm151412/Leetcode_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/skm151412/Leetcode_Codes/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/skm151412/Leetcode_Codes/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/skm151412/Leetcode_Codes/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/skm151412/Leetcode_Codes/tree/master/0704-binary-search) |
@@ -169,4 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/skm151412/Leetcode_Codes/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
