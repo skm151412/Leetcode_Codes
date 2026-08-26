@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/skm151412/Leetcode_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/skm151412/Leetcode_Codes/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/skm151412/Leetcode_Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0503-next-greater-element-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/skm151412/Leetcode_Codes/tree/master/1046-last-stone-weight) |
 ## Stack
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
 ## Enumeration
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skm151412/Leetcode_Codes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/skm151412/Leetcode_Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Newton's Method
@@ -193,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0101-symmetric-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
