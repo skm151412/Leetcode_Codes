@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skm151412/Leetcode_Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/skm151412/Leetcode_Codes/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/skm151412/Leetcode_Codes/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/skm151412/Leetcode_Codes/tree/master/1046-last-stone-weight) |
 ## Stack
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/skm151412/Leetcode_Codes/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
 | [0844-backspace-string-compare](https://github.com/skm151412/Leetcode_Codes/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
