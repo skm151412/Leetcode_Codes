@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/skm151412/Leetcode_Codes/tree/master/0907-sum-of-subarray-minimums) |
 | [1046-last-stone-weight](https://github.com/skm151412/Leetcode_Codes/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/skm151412/Leetcode_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/skm151412/Leetcode_Codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/skm151412/Leetcode_Codes/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/skm151412/Leetcode_Codes/tree/master/2104-sum-of-subarray-ranges) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/skm151412/Leetcode_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skm151412/Leetcode_Codes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/skm151412/Leetcode_Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Newton's Method
