@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/skm151412/Leetcode_Codes/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/skm151412/Leetcode_Codes/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/skm151412/Leetcode_Codes/tree/master/0907-sum-of-subarray-minimums) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/skm151412/Leetcode_Codes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1046-last-stone-weight](https://github.com/skm151412/Leetcode_Codes/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/skm151412/Leetcode_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/skm151412/Leetcode_Codes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skm151412/Leetcode_Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/skm151412/Leetcode_Codes/tree/master/3731-find-missing-elements) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/skm151412/Leetcode_Codes/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/skm151412/Leetcode_Codes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/skm151412/Leetcode_Codes/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Monotonic Queue
 |  |
 | ------- |
