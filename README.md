@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/skm151412/Leetcode_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0179-largest-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/skm151412/Leetcode_Codes/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/skm151412/Leetcode_Codes/tree/master/0303-range-sum-query-immutable) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/skm151412/Leetcode_Codes/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/skm151412/Leetcode_Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/skm151412/Leetcode_Codes/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skm151412/Leetcode_Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/skm151412/Leetcode_Codes/tree/master/0992-subarrays-with-k-different-integers) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
