@@ -1,0 +1,19 @@
+class Solution {
+    public int totalNumbers(int[] d) {
+        // int c=0;
+        int n=d.length;
+        HashSet<Integer> set=new HashSet<>();
+        for(int i=0;i<n;i++){
+            if(d[i]==0) continue;
+            for(int j=0;j<n;j++){
+                if(j==i) continue;
+                for(int k=0;k<n;k++){
+                    if(j==k || i==k) continue;
+                    int s = d[i]*100+d[j]*10+d[k];
+                    if(s%2==0) set.add(s);
+                }
+            }
+        }
+        return set.size();
+    }
+}
