@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/skm151412/Leetcode_Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/skm151412/Leetcode_Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/skm151412/Leetcode_Codes/tree/master/0496-next-greater-element-i) |
 | [0791-custom-sort-string](https://github.com/skm151412/Leetcode_Codes/tree/master/0791-custom-sort-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/skm151412/Leetcode_Codes/tree/master/0992-subarrays-with-k-different-integers) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/skm151412/Leetcode_Codes/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/skm151412/Leetcode_Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/skm151412/Leetcode_Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0791-custom-sort-string](https://github.com/skm151412/Leetcode_Codes/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/skm151412/Leetcode_Codes/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skm151412/Leetcode_Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/skm151412/Leetcode_Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/skm151412/Leetcode_Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/skm151412/Leetcode_Codes/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skm151412/Leetcode_Codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/skm151412/Leetcode_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
