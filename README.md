@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/skm151412/Leetcode_Codes/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/skm151412/Leetcode_Codes/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/skm151412/Leetcode_Codes/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/skm151412/Leetcode_Codes/tree/master/0062-unique-paths) |
 | [0907-sum-of-subarray-minimums](https://github.com/skm151412/Leetcode_Codes/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/skm151412/Leetcode_Codes/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/skm151412/Leetcode_Codes/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/skm151412/Leetcode_Codes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
