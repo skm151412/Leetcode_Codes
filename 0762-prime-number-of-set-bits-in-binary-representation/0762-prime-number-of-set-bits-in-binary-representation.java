@@ -1,7 +1,7 @@
 class Solution {
     static boolean p[];
     static{
-        int n=1000001;
+        int n=48;
         p=new boolean[n];
         Arrays.fill(p,true);
         p[0]=p[1]=false;
