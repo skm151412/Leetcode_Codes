@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/skm151412/Leetcode_Codes/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/skm151412/Leetcode_Codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/skm151412/Leetcode_Codes/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/skm151412/Leetcode_Codes/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skm151412/Leetcode_Codes/tree/master/1248-count-number-of-nice-subarrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/skm151412/Leetcode_Codes/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/skm151412/Leetcode_Codes/tree/master/0260-single-number-iii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/skm151412/Leetcode_Codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Tree
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/skm151412/Leetcode_Codes/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/skm151412/Leetcode_Codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/skm151412/Leetcode_Codes/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/skm151412/Leetcode_Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
