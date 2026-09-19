@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/skm151412/Leetcode_Codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/skm151412/Leetcode_Codes/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/skm151412/Leetcode_Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2614-prime-in-diagonal](https://github.com/skm151412/Leetcode_Codes/tree/master/2614-prime-in-diagonal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/skm151412/Leetcode_Codes/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/skm151412/Leetcode_Codes/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/skm151412/Leetcode_Codes/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skm151412/Leetcode_Codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/skm151412/Leetcode_Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2614-prime-in-diagonal](https://github.com/skm151412/Leetcode_Codes/tree/master/2614-prime-in-diagonal) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/skm151412/Leetcode_Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/skm151412/Leetcode_Codes/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/skm151412/Leetcode_Codes/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/skm151412/Leetcode_Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2614-prime-in-diagonal](https://github.com/skm151412/Leetcode_Codes/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/skm151412/Leetcode_Codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/skm151412/Leetcode_Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/skm151412/Leetcode_Codes/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
