@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skm151412/Leetcode_Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skm151412/Leetcode_Codes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/skm151412/Leetcode_Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/skm151412/Leetcode_Codes/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/skm151412/Leetcode_Codes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/skm151412/Leetcode_Codes/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/skm151412/Leetcode_Codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/skm151412/Leetcode_Codes/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
