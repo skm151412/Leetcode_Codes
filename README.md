@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/skm151412/Leetcode_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/skm151412/Leetcode_Codes/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/skm151412/Leetcode_Codes/tree/master/0204-count-primes) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/skm151412/Leetcode_Codes/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/skm151412/Leetcode_Codes/tree/master/0260-single-number-iii) |
