@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/skm151412/Leetcode_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/skm151412/Leetcode_Codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skm151412/Leetcode_Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/skm151412/Leetcode_Codes/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/skm151412/Leetcode_Codes/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skm151412/Leetcode_Codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/skm151412/Leetcode_Codes/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skm151412/Leetcode_Codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skm151412/Leetcode_Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skm151412/Leetcode_Codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/skm151412/Leetcode_Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/skm151412/Leetcode_Codes/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/skm151412/Leetcode_Codes/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skm151412/Leetcode_Codes/tree/master/1248-count-number-of-nice-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skm151412/Leetcode_Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/3904-smallest-stable-index-ii) |
 ## Design
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/skm151412/Leetcode_Codes/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/skm151412/Leetcode_Codes/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/skm151412/Leetcode_Codes/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skm151412/Leetcode_Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/skm151412/Leetcode_Codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/skm151412/Leetcode_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skm151412/Leetcode_Codes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skm151412/Leetcode_Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/skm151412/Leetcode_Codes/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/skm151412/Leetcode_Codes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
