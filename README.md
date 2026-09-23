@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/skm151412/Leetcode_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/skm151412/Leetcode_Codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/skm151412/Leetcode_Codes/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/skm151412/Leetcode_Codes/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/skm151412/Leetcode_Codes/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/skm151412/Leetcode_Codes/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
 | [0844-backspace-string-compare](https://github.com/skm151412/Leetcode_Codes/tree/master/0844-backspace-string-compare) |
 ## Simulation
