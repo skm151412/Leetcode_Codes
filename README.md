@@ -267,17 +267,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
+| [0938-range-sum-of-bst](https://github.com/skm151412/Leetcode_Codes/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
+| [0938-range-sum-of-bst](https://github.com/skm151412/Leetcode_Codes/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0101-symmetric-tree) |
+| [0938-range-sum-of-bst](https://github.com/skm151412/Leetcode_Codes/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0063-unique-paths-ii) |
 | [2614-prime-in-diagonal](https://github.com/skm151412/Leetcode_Codes/tree/master/2614-prime-in-diagonal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/skm151412/Leetcode_Codes/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
