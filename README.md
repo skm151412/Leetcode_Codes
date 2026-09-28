@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/skm151412/Leetcode_Codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/skm151412/Leetcode_Codes/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -276,12 +277,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/skm151412/Leetcode_Codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/skm151412/Leetcode_Codes/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0101-symmetric-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/skm151412/Leetcode_Codes/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/skm151412/Leetcode_Codes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
