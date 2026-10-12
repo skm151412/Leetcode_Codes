@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/skm151412/Leetcode_Codes/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0063-unique-paths-ii) |
+| [0322-coin-change](https://github.com/skm151412/Leetcode_Codes/tree/master/0322-coin-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/skm151412/Leetcode_Codes/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/skm151412/Leetcode_Codes/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/skm151412/Leetcode_Codes/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/skm151412/Leetcode_Codes/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/skm151412/Leetcode_Codes/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/skm151412/Leetcode_Codes/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/skm151412/Leetcode_Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/skm151412/Leetcode_Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/skm151412/Leetcode_Codes/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/skm151412/Leetcode_Codes/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/skm151412/Leetcode_Codes/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/skm151412/Leetcode_Codes/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/skm151412/Leetcode_Codes/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -396,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/skm151412/Leetcode_Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/skm151412/Leetcode_Codes/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/skm151412/Leetcode_Codes/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
