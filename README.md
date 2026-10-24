@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/skm151412/Leetcode_Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0518-coin-change-ii) |
+| [0611-valid-triangle-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/skm151412/Leetcode_Codes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/skm151412/Leetcode_Codes/tree/master/0724-find-pivot-index) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/skm151412/Leetcode_Codes/tree/master/0791-custom-sort-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/skm151412/Leetcode_Codes/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/skm151412/Leetcode_Codes/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/skm151412/Leetcode_Codes/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/skm151412/Leetcode_Codes/tree/master/0367-valid-perfect-square) |
+| [0611-valid-triangle-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/skm151412/Leetcode_Codes/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skm151412/Leetcode_Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/skm151412/Leetcode_Codes/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/skm151412/Leetcode_Codes/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/skm151412/Leetcode_Codes/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/skm151412/Leetcode_Codes/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0611-valid-triangle-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/skm151412/Leetcode_Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
