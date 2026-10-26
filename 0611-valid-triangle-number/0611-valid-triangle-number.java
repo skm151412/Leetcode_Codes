@@ -1,19 +1,18 @@
 class Solution {
     public int triangleNumber(int[] a) {
         Arrays.sort(a);
-        int n=a.length;long ans=0;
-        int m=(int)1e9+7;
-        for(int k=n-1;k>=2;k--){
-            int i=0;
-            int j=k-1;
-            while(i<j){
-                if((long)a[i]+a[j]>a[k]){
-                    ans=(ans+j-i)%m;
-                    j--;
+        int n=a.length;
+        int ans=0;
+        for(int i=n-1;i>=2;i--){
+            int j=0;
+            int k=i-1;
+            while(j<k){
+                if(a[j]+a[k]>a[i]){
+                    ans+=(k-j);k--;
                 }
-                else i++;
-            } 
+                else j++;
+            }
         }
-        return (int)(ans%m);
+        return ans;
     }
 }
