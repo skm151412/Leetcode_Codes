@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/skm151412/Leetcode_Codes/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/skm151412/Leetcode_Codes/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/skm151412/Leetcode_Codes/tree/master/0204-count-primes) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/skm151412/Leetcode_Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Knapsack Problem
 |  |
