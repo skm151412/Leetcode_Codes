@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/skm151412/Leetcode_Codes/tree/master/0021-merge-two-sorted-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences
 |  |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/skm151412/Leetcode_Codes/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/skm151412/Leetcode_Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/skm151412/Leetcode_Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Knapsack Problem
 |  |
