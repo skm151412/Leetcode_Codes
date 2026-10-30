@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/skm151412/Leetcode_Codes/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/skm151412/Leetcode_Codes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0992-subarrays-with-k-different-integers](https://github.com/skm151412/Leetcode_Codes/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/skm151412/Leetcode_Codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/skm151412/Leetcode_Codes/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skm151412/Leetcode_Codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/skm151412/Leetcode_Codes/tree/master/1331-rank-transform-of-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/skm151412/Leetcode_Codes/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/skm151412/Leetcode_Codes/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/skm151412/Leetcode_Codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skm151412/Leetcode_Codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skm151412/Leetcode_Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/skm151412/Leetcode_Codes/tree/master/3904-smallest-stable-index-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/skm151412/Leetcode_Codes/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/skm151412/Leetcode_Codes/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/skm151412/Leetcode_Codes/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/skm151412/Leetcode_Codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skm151412/Leetcode_Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/skm151412/Leetcode_Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/skm151412/Leetcode_Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/skm151412/Leetcode_Codes/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/skm151412/Leetcode_Codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/skm151412/Leetcode_Codes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/skm151412/Leetcode_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/skm151412/Leetcode_Codes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
